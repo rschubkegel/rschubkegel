@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rschubkegel
-- 👀 I’m interested in making video games and visually stimulating applications
+- 👀 I’m interested in making video games, visually stimulating UI, and practical applications
 - 💻 Check out [my personal portfolio](https://rschubkegel.github.io/) to *see* some of the stuff I've made!
 
 <!---
