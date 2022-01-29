@@ -1,5 +1,7 @@
+![](github-banner.png)
+
 - 👋 Hi, I’m @rschubkegel
-- 👀 I’m interested in making video games, visually stimulating UI, and practical applications
+- 👀 I’m interested in making video games, visually satisfying UI, and practical applications
 - 💻 Check out [my personal portfolio](https://rschubkegel.github.io/) to *see* some of the stuff I've made!
 
 <!---
